@@ -6,6 +6,7 @@ Program essentially takes in data for a school library and sorts it.
 It takes four text files as input (books.txt, borrowers.txt, returns.txt, students.txt) and outputs one text file (standing.txt).
 
 The four inputs must be formatted as below:
+
 books.txt: [list of books in library]
 BOOKID#BOOKNAME#AUTHOR#PRICE
 
@@ -19,5 +20,6 @@ students.txt: [list of students in school]
 STUDENTID,STUDENTNAME,CLASSID
 
 The output file will be formatted as below:
+
 standing.txt: [sorted data of books remaining to be returned and
 	       money owned by each student]
