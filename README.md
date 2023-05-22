@@ -21,6 +21,7 @@ STUDENTID,STUDENTNAME,CLASSID
 The output file will be formatted as below:
 standing.txt: [sorted data of books remaining to be returned 
 	       money owned by each student]
+
 Class: [ID]
 +-----------------+-------------------------------------+--------------+
 | Student Name    | Book                                | Due Date     |
