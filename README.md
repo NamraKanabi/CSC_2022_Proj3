@@ -19,37 +19,5 @@ students.txt: [list of students in school]
 STUDENTID,STUDENTNAME,CLASSID
 
 The output file will be formatted as below:
-standing.txt: [sorted data of books remaining to be returned 
+standing.txt: [sorted data of books remaining to be returned and
 	       money owned by each student]
-
-Class: [ID]
-
-+-----------------+-------------------------------------+--------------+
-
-| Student Name      | Book                                | Due Date     |
-
-+-----------------+-------------------------------------+--------------+
-
-| [test name]     | [test name]                         | [test date]  |
-
-+-----------------+-------------------------------------+--------------+
-
-| Total Books                                           |            1 |
-
-+-------------------------------------------------------+--------------+
-
-+-----------------+----------+
-
-| Student Name    | Due      |
-
-+-----------------+----------+
-
-+-----------------+----------+
-
-| Total Books     |  $0.00   |
-
-+-----------------+----------+
-
-
-
-
